@@ -1,3 +1,3 @@
 "scripts": {
-  "start": "node Example/example.ts"
+  "start": "node xyz.js"
 }
